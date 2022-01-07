@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate once I have usable skills.
-- 📫 How to reach me sigmadeveloper0@gmai.com .
+- 📫 How to reach me sigmadeveloper0@gmail.com .
 
 <!---
 sigmadeveloper0/sigmadeveloper0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
